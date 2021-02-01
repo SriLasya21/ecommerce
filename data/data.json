@@ -1,0 +1,30 @@
+{
+	"mobiles":[
+		{
+			"name": "Nokia 7.2",
+			"image": "img/1.jpg",
+			"originalPrice": 16000,
+			"price":15000
+		},{
+			"name": "Samsung A30",
+			"image": "img/2.jpg",
+			"originalPrice": 14000,
+			"price":13000
+		},{
+			"name": "Micromax",
+			"image": "img/3.jpeg",
+			"originalPrice": 10000,
+			"price":9000
+		},{
+			"name": "Apple se",
+			"image": "img/4.jpg",
+			"originalPrice": 31000,
+			"price":31000
+		},{
+			"name": "Vivo y95",
+			"image": "img/5.jpg",
+			"originalPrice": 16000,
+			"price":15000
+		}
+	]
+}
